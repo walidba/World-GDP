@@ -4,8 +4,8 @@ This is repository contains a web application that lists Word countries with the
 
 This application is developped using the following technologies:
 
-* Spring MVC for implementing the MVC pattern.
-* The interaction with the MySQL database is done using Spring JPA.
-* The interaction with the World Bank API is done using Rest Template.
-* The views is created using a template engine called Thymeleaf.
-* The frontend is created using JQuery and Bootstrap.
+* **Spring MVC** for implementing the MVC pattern.
+* The interaction with the MySQL database is done using **Spring JPA**.
+* The interaction with the World Bank API is done using **Rest Template**.
+* The views is created using a template engine called **Thymeleaf**.
+* The frontend is created using **JQuery** and **Bootstrap**.
